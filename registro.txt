@@ -1,0 +1,5 @@
+Formulario de registro
+Nombre:
+Correo electrónico:
+Contraseña:
+Botón: Crear cuenta
