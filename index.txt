@@ -1,1 +1,1 @@
-Bienvenidos al proyecto de práctica de Gitflow.
+Bienvenidos al proyecto de práctica de Gitflow. Acceso disponible.
