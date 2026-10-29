@@ -1,1 +1,3 @@
 Proyecto del máster para practicar consola, Git y Gitflow.
+
+Versión v1.0.0: lanzamiento con login, registro y corrección del mensaje de bienvenida.
